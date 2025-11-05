@@ -28,3 +28,7 @@ Key technologies used to build the dashboard:
 1. Increase the number of OPDs or doctors for outpatients to manage the waiting count.
 2. Recommend partnering with small diagnostic centers and offer referral commissions.
 3. Improve scheduling, capacity planning, and resource allocation.
+
+## Dashboard
+
+https://github.com/user-attachments/assets/096b330a-90fe-4b28-b948-efbcdcbe105b
